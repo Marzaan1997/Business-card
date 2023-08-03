@@ -1,0 +1,25 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.marzaan-img {
+    width: 150px;
+}
+
+
+.card {
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    width: 400px;
+    justify-content: space-around;
+    text-align: center;
+    border-bottom: 5px solid #d8cefe;
+    background: #ddebf8;
+    color: #2b2839;
+}
+
+.border-blue {
+    border: 1px dotted blue;  
+}
